@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sid</h1>
-<h3 align="center">A passionate (wannabe) frontend developer from the UK self learning from scratch</h3>
+<h1 align="center">Junior Developer Resources</h1>
+<h3 align="center">A (small) list of curated items while self learning to code that may help others</h3>
 
 This is a solution to the [Job listings with filtering challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
