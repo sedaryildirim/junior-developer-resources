@@ -113,5 +113,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
 [stars-url]: https://github.com/sedaryildirim/junior-developer-resources/stargazers
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/sedaryildirim/junior-developer-resources/blob/master/LICENSE.txt
+[license-url]: https://github.com/sedaryildirim/junior-developer-resources/blob/main/LICENSE.txt
 [product-screenshot]: images/screenshot.png
