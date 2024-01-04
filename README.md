@@ -31,23 +31,24 @@
 <!-- LIST -->
 ## Resources
 
-- Projects
-  - [Front End Mentor Projects - HTML, CSS, JS](https://www.frontendmentor.io/)
-  - [Dev Challenges Projects](https://devchallenges.io/)
+- Projects - a list of websites that offer small bitesize projects covering HTML, CSS & JS
+  - [Front End Mentor Projects](https://www.frontendmentor.io/)
+  - [Dev Challenges Projects](https://devchallenges.io/) 
   - [Front End Projects](https://www.frontendpractice.com/#projects)
   - [100 Days CSS Challenge](https://100dayscss.com/)
   - [Daily UI](https://www.dailyui.co/)
-- Courses
+- Courses - Zero to Hero-esque courses
   - [The Odin Project](https://www.theodinproject.com/home)
   - [Modern Java Script by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
   - [Modern Java Script by Shaun Pelling](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
   - [Web Developer Boot Camp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
   - [Web Developer Boot Camp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- YouTube
+- YouTube - List of youtubers i watch for tutorials and help
   - [Kevin Powell](https://www.youtube.com/kevinpowell)
   - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
   - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- Tools
+  - [Bedimcode](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)
+- Tools - General list of tools covering icons, shields, fonts, color schemes and such
   - [Simple Icons](https://simpleicons.org/)
   - [Github Shields](https://shields.io/)
   - [Form Mailer](https://formspark.io/)
@@ -64,7 +65,7 @@
   - [Clippy](https://bennettfeely.com/clippy/)
   - [Remove BG](https://www.remove.bg/)
   - [Image Compressor](https://imagecompressor.com/)
-- Cheat Sheets
+- Cheat Sheets - list of quick cheat sheets to visualise grid and flexbox for easier understanding
   - [CSS Garden](https://cssgridgarden.com/)
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [Malven Grid](https://grid.malven.co/)
@@ -72,7 +73,7 @@
   - [CSS Grid Generator](https://grid.layoutit.com/)
   - [Flexbox Generator](https://flexbox.help/)
   - [Flexbox Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- Royalty Free Images etc
+- Royalty Free Images / Videos
   - [Unsplash](https://unsplash.com/)
   - [Pexels](https://www.pexels.com/)
   - [Coverr](https://coverr.co/)
