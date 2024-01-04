@@ -17,7 +17,6 @@
   <p align="center">
     a small list of resources i've curated while self learning to code which may help others
     <br />
-    <a href="https://github.com/sedaryildirim/junior-developer-resources"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/sedaryildirim/junior-developer-resources">View Site - TBC</a>
@@ -26,7 +25,19 @@
     ·
     <a href="https://github.com/sedaryildirim/junior-developer-resources/issues">Request Feature</a>
   </p>
-</div>->
+</div>
+
+<!-- LIST -->
+## Resources
+
+- Projects
+  - [Modern Java Script by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+- Courses
+- YouTube
+- Tools
+- Royalty Free Images etc
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -41,18 +52,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some Suggestion'`)
 4. Push to the Branch (`git push origin feature/Suggestion`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LIST -->
-## List
-
-1. Projects
-2. Courses
-3. YouTube
-4. Tools
-5. Royalty Free Images etc
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
