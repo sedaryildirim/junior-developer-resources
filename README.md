@@ -31,11 +31,51 @@
 ## Resources
 
 - Projects
-  - [Modern Java Script by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+  - [Front End Mentor Projects - HTML, CSS, JS](https://www.frontendmentor.io/)
+  - [Dev Challenges Projects](https://devchallenges.io/)
+  - [Front End Projects](https://www.frontendpractice.com/#projects)
+  - [100 Days CSS Challenge](https://100dayscss.com/)
+  - [Daily UI](https://www.dailyui.co/)
 - Courses
+  - [The Odin Project](https://www.theodinproject.com/home)
+  - [Modern Java Script by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+  - [Modern Java Script by Shaun Pelling](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
+  - [Web Developer Boot Camp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
+  - [Web Developer Boot Camp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - YouTube
+  - [Kevin Powell](https://www.youtube.com/kevinpowell)
+  - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+  - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - Tools
+  - [Simple Icons](https://simpleicons.org/)
+  - [Github Shields](https://shields.io/)
+  - [Form Mailer](https://formspark.io/)
+  - [Netlify](https://www.netlify.com/)
+  - [Box Icons](https://boxicons.com/)
+  - [Flat Icons](https://www.flaticon.com/)
+  - [Icons 8](https://icons8.com/)
+  - [Tabler Icons](https://tablericons.com/)
+  - [Icon Scout](https://iconscout.com/)
+  - [Font Awesome](https://fontawesome.com/)
+  - [Pocoloco](https://pocoloco.io/)
+  - [Dopely Colors](https://colors.dopely.top/)
+  - [UI Faces](https://uifaces.co/)
+  - [Clippy](https://bennettfeely.com/clippy/)
+  - [Remove BG](https://www.remove.bg/)
+  - [Image Compressor](https://imagecompressor.com/)
+- Cheat Sheets
+  - [CSS Garden](https://cssgridgarden.com/)
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [Malven Grid](https://grid.malven.co/)
+  - [Malven Flexbox](https://flexbox.malven.co/)
+  - [CSS Grid Generator](https://grid.layoutit.com/)
+  - [Flexbox Generator](https://flexbox.help/)
+  - [Flexbox Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - Royalty Free Images etc
+  - [Unsplash](https://unsplash.com/)
+  - [Pexels](https://www.pexels.com/)
+  - [Coverr](https://coverr.co/)
+  - [Undraw](https://undraw.co/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
