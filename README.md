@@ -31,8 +31,9 @@
 
 <!-- SCREENSHOT -->
 ## Screenshot
-<img src="imgs/screenshot.png" alt="Website screenshot">
-
+<div align="center">
+    <img src="imgs/Screenshot.png" alt="Logo">
+  </a>
 <!-- LIST -->
 ## Resources
 
