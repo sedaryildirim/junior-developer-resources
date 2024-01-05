@@ -33,7 +33,8 @@
 ## Screenshot
 <div align="center">
     <img src="imgs/Screenshot.png" alt="Logo">
-  </a>
+
+
 <!-- LIST -->
 ## Resources
 
