@@ -20,7 +20,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/sedaryildirim/junior-developer-resources">View Site - TBC</a>
+    <a href="https://sedaryildirim.github.io/junior-developer-resources/">View Site</a>
     ·
     <a href="https://github.com/sedaryildirim/junior-developer-resources/issues">Report Bug</a>
     ·
