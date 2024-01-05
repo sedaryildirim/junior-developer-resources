@@ -31,7 +31,7 @@
 
 <!-- SCREENSHOT -->
 ## Screenshot
-
+<img src="imgs/screenshot.png" alt="Website screenshot">
 
 <!-- LIST -->
 ## Resources
