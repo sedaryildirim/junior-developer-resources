@@ -113,7 +113,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowedgements
+## Acknowledgements
 
 Site template is a fork from  <a href="https://github.com/sssain/simple-portfolio">Simple Portfolio</a>.
 
