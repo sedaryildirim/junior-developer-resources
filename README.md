@@ -18,6 +18,7 @@
   <p align="center">
     a small list of resources i've curated while self learning to code which may help others
     <br />
+    Site template is a fork from  <a href="https://github.com/sssain/simple-portfolio">Simple Portfolio</a>. Site for educational purposes only and not complete!
     <br />
     <br />
     <a href="https://sedaryildirim.github.io/junior-developer-resources/">View Site</a>
